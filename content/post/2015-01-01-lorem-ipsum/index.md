@@ -1,6 +1,9 @@
 ---
 date: "2015-01-01T13:09:13-06:00"
-title: Lorem Ipsum
+title: Skills
 ---
 
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore _magna aliqua_. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Software: R, Stata, Python, SQL
+- Operating Systems: Microsoft Office (Excel, Outlook, PowerPoint, Word)
+- Tools: Git, SourceTree, LaTeX, HTML and API-based Web Scraping, GIS Mapping
+- Languages: Fluent in spoken and written English and Bahasa Indonesia (native)

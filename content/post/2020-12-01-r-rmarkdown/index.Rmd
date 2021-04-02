@@ -1,43 +1,27 @@
 ---
-title: "Hello R Markdown"
+title: "Profile"
 author: "Muhammad Tsany"
-date: 2020-12-01T21:13:14-05:00
-bibliography: "references.bib"
+date: 2021-04-02T21:13:14-05:00
 categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+tags: ["R Markdown", "profile"]
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# Abstract
-
-# Introduction
-
-We use @citetidyverse
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
-
-# Including Plots
-
-You can also embed plots. See Figure \@ref(fig:pie) for example:
-
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
+- Teaching Assistant, Kumon Math Centre
+  - Aid over 30 students with pre-calculus and calculus mathematics concepts and reading comprehension
+  - Oversaw development of students’ math skills and reading comprehension over several months
+  - Graded and reviewed over 20 assignments effectively over an hour on a short turnaround
+  
+- Sales Advisor, H&M 
+  - Provided high quality of customer service on sales floor to over 300 customers weekly
+  - Processed customer payments at POS terminal more than $1,000 daily
+  - Recommended products based on customer preferences to provide personal experience
+  
+- Programming Assistant, Liquid Assets Dragon Boat Team
+  - Led weekly workouts for 4-10 recruits throughout a 2-hour period open to over 200 recruits
+  - Praised by recruits in anonymous feedback for creating an engaging environment with detailed explanations
+  - Supervised by the Head Trainer with data collection, analysis, and visualization of fitness data to improve the current workout program using R software
 
