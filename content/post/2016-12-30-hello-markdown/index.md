@@ -1,5 +1,4 @@
 ---
-date: "2021"
 title: Experience
 ---
 
