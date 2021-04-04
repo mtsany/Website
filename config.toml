@@ -1,13 +1,13 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Muhammad Tsany's Website"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
+    #post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
     name = "About"
